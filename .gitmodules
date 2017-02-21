@@ -1,4 +1,4 @@
 [submodule "todo.actions.d"]
-	path = todo.actions.d
+	path = .todo.actions.d
 	url = https://github.com/cgiacofei/todo.actions.d.git
 	branch = master
